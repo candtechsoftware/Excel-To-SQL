@@ -1,0 +1,6 @@
+/target
+/assets
+
+.DS_Store
+
+*.sql
